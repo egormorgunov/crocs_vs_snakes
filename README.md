@@ -1,4 +1,5 @@
 # crocs_vs_snakes
 ## Алгоритм сверточной нейронной сети для классификации изображений
 ### Сверточная нейронная сеть обучается на двух наборах по 35 изображений, содержащих фотографии крокодилов и змей. По завершении обучения алгоритм проходит по тестовой выборке из 24 изображений, и с определенной точностью предсказывает, какая фотография перед ним.
-![крок1](https://github.com/egormorgunov/crocs_vs_snakes/assets/108347547/c92a4a1f-999a-4b52-918d-d6fd56dedba6) ![зм2](https://github.com/egormorgunov/crocs_vs_snakes/assets/108347547/a2bf7dec-e5e8-4b53-a73c-383ecea84f5c)
+![image](https://github.com/egormorgunov/crocs_vs_snakes/assets/108347547/53331c68-a9e5-4acb-a72b-2d2977afa00a)
+
